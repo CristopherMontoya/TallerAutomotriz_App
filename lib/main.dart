@@ -10,7 +10,7 @@ class TallerAutomotrizApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'App Taller Automotriz',
+        title: 'App Taller Automotriz V2',
         theme: ThemeData(
           primarySwatch: Colors.orange,
         ),
